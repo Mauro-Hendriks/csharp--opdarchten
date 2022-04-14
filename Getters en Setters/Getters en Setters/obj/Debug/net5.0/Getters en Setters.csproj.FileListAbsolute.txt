@@ -1,0 +1,16 @@
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\bin\Debug\net5.0\Getters en Setters.exe
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\bin\Debug\net5.0\Getters en Setters.deps.json
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\bin\Debug\net5.0\Getters en Setters.runtimeconfig.json
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\bin\Debug\net5.0\Getters en Setters.runtimeconfig.dev.json
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\bin\Debug\net5.0\Getters en Setters.dll
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\bin\Debug\net5.0\ref\Getters en Setters.dll
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\bin\Debug\net5.0\Getters en Setters.pdb
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.csproj.AssemblyReference.cache
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.AssemblyInfoInputs.cache
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.AssemblyInfo.cs
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.dll
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\ref\Getters en Setters.dll
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.pdb
+C:\Users\SKIKK\source\repos\Getters en Setters\Getters en Setters\obj\Debug\net5.0\Getters en Setters.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\bin\Debug\net5.0\Variables_en_Datatypes.exe
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\bin\Debug\net5.0\Variables_en_Datatypes.deps.json
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\bin\Debug\net5.0\Variables_en_Datatypes.runtimeconfig.json
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\bin\Debug\net5.0\Variables_en_Datatypes.runtimeconfig.dev.json
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\bin\Debug\net5.0\Variables_en_Datatypes.dll
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\bin\Debug\net5.0\ref\Variables_en_Datatypes.dll
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\bin\Debug\net5.0\Variables_en_Datatypes.pdb
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\Variables_en_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\Variables_en_Datatypes.AssemblyInfoInputs.cache
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\Variables_en_Datatypes.AssemblyInfo.cs
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\Variables_en_Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\Variables_en_Datatypes.dll
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\ref\Variables_en_Datatypes.dll
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\Variables_en_Datatypes.pdb
+C:\Users\SKIKK\source\repos\Variables_en_Datatypes\Variables_en_Datatypes\obj\Debug\net5.0\Variables_en_Datatypes.genruntimeconfig.cache
